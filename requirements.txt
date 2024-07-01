@@ -1,0 +1,9 @@
+catboost==1.2.5
+lightgbm==4.4.0
+matplotlib==3.8.0
+numpy==1.26.4
+pandas==2.1.4
+sentence_transformers==3.0.1
+session_info==1.0.0
+sklearn==1.5.0
+torch==2.3.1+cpu
